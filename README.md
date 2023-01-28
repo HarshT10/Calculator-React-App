@@ -1,3 +1,42 @@
+# Calculator React App
+
+- This Calculator App was given to me by Ineuron as an Internship Project.
+
+---
+
+## What did I learn from this Project?
+
+- Create React App
+
+- JavaScript
+
+- Grid
+
+---
+
+## How much did it take to build this Project?
+
+- It took me around 4 hours to make this project.
+
+---
+
+## **About me**
+
+#### **Hey, I'm Harsh Thakkar**
+
+- I'm 23 and I live in Thane, Maharashtra. I'm pursuing Full Stack Web Development.
+
+---
+
+## **Feedback**
+
+- Feedbacks are always appreciated. harsh.thakkar1011@gmail.com
+
+<br>
+<br>
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
