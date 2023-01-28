@@ -2,6 +2,10 @@
 
 - This Calculator App was given to me by Ineuron as an Internship Project.
 
+[Netlify](https://calculator-app-harshcodes.netlify.app/)
+
+![Badge](https://img.shields.io/badge/Netlify-Link-green)
+
 ---
 
 ## What did I learn from this Project?
